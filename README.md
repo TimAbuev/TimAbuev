@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Tim Abuev</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Начинающий фронтенд-разработчик 🇷🇺</h3>
 <!--
 **TimAbuev/TimAbuev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
