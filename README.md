@@ -1,5 +1,13 @@
 <h1 align="center">𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 𝚃𝚒𝚖 𝙰𝚋𝚞𝚎𝚟</h1>
 <h3 align="center">Начинающий фронтенд-разработчик</h3>
+
+### Stack:
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" width="52" alt="webpack logo"  />
+</div>
 <!--
 **TimAbuev/TimAbuev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
