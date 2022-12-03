@@ -1,5 +1,6 @@
 <h1 align="center">𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 𝚃𝚒𝚖 𝙰𝚋𝚞𝚎𝚟</h1>
 <h3 align="center">Начинающий фронтенд-разработчик</h3>
+<p align="left"> Учусь в ЯндексПрактикуме, завершаю проект <a href="https://github.com/TimAbuev/mesto">"Место"<a/> в рамках 9-ой проектной работы. <p/>
 
 ### Stack:
 <div align="center">
