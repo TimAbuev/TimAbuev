@@ -1,7 +1,7 @@
 <h1 align="center">𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 𝚃𝚒𝚖 𝙰𝚋𝚞𝚎𝚟</h1>
 <h3 align="center">Начинающий фронтенд-разработчик</h3>
 <p align="left"> 
-Закончил ЯндексПрактикум, последний проект "Movies-explorer":<br />
+Дипломный проект ЯндексПрактикума "Movies-explorer":<br />
   <a href="https://github.com/TimAbuev/movies-explorer-frontend">Frontend & website<a/> <br />
   <a href="https://github.com/TimAbuev/movies-explorer-api">Backend<a/>  
 <p/>
